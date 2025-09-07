@@ -11,7 +11,7 @@ module.exports = {
     ecmaVersion: 13,
     sourceType: "module",
   },
-  plugins: ["react"],
+ 
   rules: {
     "react/function-component-definition": 0,
     "react/react-in-jsx-scope": 0,
